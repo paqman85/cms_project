@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Temporary files created by text editors
+*~
+
+# Directories for Go modules and dependencies
+vendor/
+bin/
+pkg/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Environment variable files
+.env
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
